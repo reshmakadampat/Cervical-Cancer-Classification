@@ -56,8 +56,6 @@ This project addresses a critical gap in medical AI: most deep learning models f
 
 ```
 
-├── Dataset
-
 ├── Explainable\_AI\_for\_Automated\_Detection\_of\_Cervical\_Cancer\_RestNet18.ipynb
 
 ├── Explainable\_AI\_for\_Automated\_Detection\_of\_Cervical\_Cancer\_EfficientNet.ipynb
